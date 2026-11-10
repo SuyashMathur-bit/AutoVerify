@@ -1,4 +1,4 @@
-# AutoVerify-ALPR
+# AutoVerify
 
 ### OCR-Based Automatic License Plate Recognition and Vehicle Verification System
 
